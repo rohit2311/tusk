@@ -5,6 +5,9 @@ welcome to Telusko Kitchen
 kheer
 pasta
 
+beans
+pizza
+
 chiken fry
 
 thank you ):
